@@ -6,7 +6,7 @@
 
 可以在相关issues中留言，参与讨论
 
-## 仓库包含内容简介
+## 仓库内容简介
 
 ### 社群每日讨论结果 https://github.com/li-dao/open-info/issues/1
 包含各类内容的明确，比如愿景、社区管理规则、路线所有li-dao相关的开放信息
